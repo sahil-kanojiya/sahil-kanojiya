@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <!--
-**Sahil-Kanojiya98/Sahil-Kanojiya98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**sahil-kanojiya/sahil-kanojiya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
